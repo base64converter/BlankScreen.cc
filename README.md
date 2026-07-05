@@ -20,15 +20,21 @@ A lightweight, free, browser-based display utility designed to instantly turn yo
 Instantly access our most popular high-utility displays and diagnostic screens:
 
 ### 🔍 Diagnostic & Testing Screens
-* **[Pure White Screen](https://blankscreen.ccwhite-screen/)** – Ideal for detecting dead pixels, panel dirt, and testing maximum brightness.
-* **[Pure Black Screen](https://blankscreen.ccblack-screen/)** – Perfect for analyzing backlight bleeding and screen uniformity on IPS/VA panels.
-* **[Matte Black Screen](https://blankscreen.ccmatte-black-screen/)** – A softer, reflection-reducing dark backdrop for minimalist workspaces.
-* **[Royal Blue Screen](https://blankscreen.ccroyal-blue-screen/)** – Vivid blue layout for color calibration and unique ambient photography.
+* **[Pure White Screen](https://blankscreen.cc)** – Ideal for detecting dead pixels, panel dirt, and testing maximum brightness.
+* **[Pure Black Screen](https://blankscreen.cc/black-screen)** – Perfect for analyzing backlight bleeding and screen uniformity on IPS/VA panels.
+* **[Dead Pixel Test](https://blankscreen.cc/dead-pixel-test)** – Precision lab validation interface designed to locate stuck or dead panel pixels.
+* **[Backlight Bleed Checker](https://blankscreen.cc/backlight-bleed-test)** – Free online tool optimized to inspect monitor IPS glow and corner light leaks.
+* **[Contrast Ratio Scale](https://blankscreen.cc/contrast-ratio-test)** – Evaluate display gradients, dark ranges, and panel color accuracy.
 
-### 🎭 Prank & Simulation Displays
-* **[Fake Windows 11 Update Screen](https://blankscreen.ccfake-windows-11-update-screen/)** – Realistically loops a standard Windows 11 installation progress bar to pause productivity.
-* **[Fake Android System Update](https://blankscreen.ccfake-android-update/)** – Simulates a mobile operating system upgrade screen.
-* **[Broken Screen Simulator](https://blankscreen.ccbroken-screen/)** – Generates realistic digital cracks and LCD bleeding textures to surprise friends.
+### 🎨 Popular Premium Color backdrops
+* **[Alice Blue Screen](https://blankscreen.cc/alice-blue-screen)** – Light, cool backdrop ideal for minimalist softbox ambient light.
+* **[Antique White Screen](https://blankscreen.cc/antique-white-screen)** – Warm, retro off-white projection screen perfect for webcam baselines.
+* **[Pure Green Signal](https://blankscreen.cc/green-screen)** – Turn any extra monitor or mobile device into an instant digital chroma key background.
+
+### 🎭 Interactive Utilities & Simulations
+* **[Analog Clock Screensaver](https://blankscreen.cc/analog-clock-full-screen)** – High-frequency rendered programmatic canvas layout to wake up lazy pixels.
+* **[BIOS Boot Loop Simulator](https://blankscreen.cc/bios-boot-loop-simulator)** – A tech-themed prank or screen-cycling utility to mimic a persistent system loop.
+* **[Blue Screen of Death (BSOD)](https://blankscreen.cc/bluescreen)** – Emulates the iconic Windows system crash layout for custom environments or jokes.
 
 ---
 
